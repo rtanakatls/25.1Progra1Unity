@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Enemy1Improved : MonoBehaviour
+public class Enemy1Improved : Enemy
 {
     private float speed;
     private Rigidbody rb;

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Enemy2Improved : MonoBehaviour
+public class Enemy2Improved : Enemy
 {
 
     private void Start()
